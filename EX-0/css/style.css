@@ -1,0 +1,18 @@
+body {
+    color: rgb(255, 191, 0);
+    background-color: rgb(145, 41, 41);
+}
+
+div {
+    border: 1px, solid, black;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+a {
+    color: white;
+}
+
+a:hover{
+    color: rgb(225, 27, 219);
+}
