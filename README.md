@@ -15,16 +15,3 @@ Daje roma daje
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⡇⠹⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡿⠁⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣤⣞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢢⣀⣠⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠲⢤⣀⣀⠀⢀⣀⣀⠤⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
-
-# 🎨 Programmazione Creativa 🖌️
-
-## Come Totti in area di rigore: semplice, efficace, geniale!
-
-:D
-
-### 🚀 Introduzione
-
-Non so cosa sto scrivendo, ma molte invenzioni sono nate per caso no?
-
-> "Mo je faccio er cucchiaio?" - Io prima di iniziare qualunque cosa
